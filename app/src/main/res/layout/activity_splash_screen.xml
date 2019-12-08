@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/white"
-    tools:context="me.hamzabhatti.cryptopal.SplashScreenActivity">
+    tools:context="me.hamzabhatti.cryptallet.SplashScreenActivity">
 
 
     <LinearLayout
@@ -48,7 +48,7 @@
     </LinearLayout>
 
 
-    <me.hamzabhatti.cryptopal.customfonts.TextViewSFProDisplayRegular
+    <me.hamzabhatti.cryptallet.customfonts.TextViewSFProDisplayRegular
         android:layout_above="@+id/bottom_btn"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

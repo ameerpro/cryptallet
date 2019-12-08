@@ -6,7 +6,7 @@
     android:orientation="vertical">
 
 
-    <me.hamzabhatti.cryptopal.customfonts.TextViewSFProDisplayMedium
+    <me.hamzabhatti.cryptallet.customfonts.TextViewSFProDisplayMedium
         android:id="@+id/title"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

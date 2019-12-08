@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/white"
-    tools:context="me.hamzabhatti.cryptopal.LoginActivity">
+    tools:context="me.hamzabhatti.cryptallet.LoginActivity">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -42,7 +42,7 @@
 
 
 
-                    <me.hamzabhatti.cryptopal.customfonts.TextViewSFProDisplayMedium
+                    <me.hamzabhatti.cryptallet.customfonts.TextViewSFProDisplayMedium
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="Create a New Account"
@@ -50,7 +50,7 @@
                         android:textColor="#141a22"/>
 
 
-                    <me.hamzabhatti.cryptopal.customfonts.TextViewSFProDisplayRegular
+                    <me.hamzabhatti.cryptallet.customfonts.TextViewSFProDisplayRegular
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="Sync across devices with your Account"
@@ -73,7 +73,7 @@
             android:layout_marginRight="28.7dp"
             android:textColor="@color/black">
 
-            <me.hamzabhatti.cryptopal.customfonts.EditText_SF_Pro_Display_Medium
+            <me.hamzabhatti.cryptallet.customfonts.EditText_SF_Pro_Display_Medium
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:hint="YOUR NAME"
@@ -97,7 +97,7 @@
             android:layout_marginRight="28.7dp"
             android:textColor="@color/black">
 
-            <me.hamzabhatti.cryptopal.customfonts.EditText_SF_Pro_Display_Medium
+            <me.hamzabhatti.cryptallet.customfonts.EditText_SF_Pro_Display_Medium
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:hint="EMAIL ID"
@@ -121,7 +121,7 @@
             android:layout_height="wrap_content"
             android:textColor="@color/black">
 
-            <me.hamzabhatti.cryptopal.customfonts.EditText_SF_Pro_Display_Medium
+            <me.hamzabhatti.cryptallet.customfonts.EditText_SF_Pro_Display_Medium
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:hint="Password"
@@ -144,7 +144,7 @@
             android:layout_height="wrap_content"
             android:textColor="@color/black">
 
-            <me.hamzabhatti.cryptopal.customfonts.EditText_SF_Pro_Display_Medium
+            <me.hamzabhatti.cryptallet.customfonts.EditText_SF_Pro_Display_Medium
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:hint="CONFIRM PASSWORD"
@@ -171,7 +171,7 @@
         android:orientation="horizontal">
 
 
-        <me.hamzabhatti.cryptopal.customfonts.TextViewSFProDisplayRegular
+        <me.hamzabhatti.cryptallet.customfonts.TextViewSFProDisplayRegular
 
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -179,7 +179,7 @@
             android:textSize="17.3sp"
             android:text="Already a user?"/>
 
-        <me.hamzabhatti.cryptopal.customfonts.TextViewSFProDisplayRegular
+        <me.hamzabhatti.cryptallet.customfonts.TextViewSFProDisplayRegular
 
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -192,7 +192,7 @@
 
     </LinearLayout>
 
-    <me.hamzabhatti.cryptopal.customfonts.Button_SF_Pro_Display_Semibold
+    <me.hamzabhatti.cryptallet.customfonts.Button_SF_Pro_Display_Semibold
         android:id="@+id/bottom_btn"
         android:layout_alignParentBottom="true"
         android:layout_width="match_parent"

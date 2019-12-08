@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/white"
-    tools:context="me.hamzabhatti.cryptopal.LoginActivity">
+    tools:context="me.hamzabhatti.cryptallet.LoginActivity">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -39,7 +39,7 @@
                     android:orientation="vertical">
 
 
-                    <me.hamzabhatti.cryptopal.customfonts.TextViewSFProDisplayMedium
+                    <me.hamzabhatti.cryptallet.customfonts.TextViewSFProDisplayMedium
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="Create a Secured PIN"
@@ -47,7 +47,7 @@
                         android:textSize="19.2sp" />
 
 
-                    <me.hamzabhatti.cryptopal.customfonts.TextViewSFProDisplayRegular
+                    <me.hamzabhatti.cryptallet.customfonts.TextViewSFProDisplayRegular
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="4dp"
@@ -61,7 +61,7 @@
         </LinearLayout>
 
 
-        <me.hamzabhatti.cryptopal.customfonts.EditText_SF_Pro_Display_Medium
+        <me.hamzabhatti.cryptallet.customfonts.EditText_SF_Pro_Display_Medium
             android:id="@+id/edit_txt"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -89,7 +89,7 @@
             android:layout_height="wrap_content"
             android:orientation="horizontal">
 
-            <me.hamzabhatti.cryptopal.customfonts.TextViewSFProDisplayRegular
+            <me.hamzabhatti.cryptallet.customfonts.TextViewSFProDisplayRegular
                 android:id="@+id/one"
                 android:layout_width="0dp"
                 android:layout_height="70dp"
@@ -99,7 +99,7 @@
                 android:textColor="@color/txt_color"
                 android:textSize="25sp" />
 
-            <me.hamzabhatti.cryptopal.customfonts.TextViewSFProDisplayRegular
+            <me.hamzabhatti.cryptallet.customfonts.TextViewSFProDisplayRegular
                 android:id="@+id/two"
                 android:layout_width="0dp"
                 android:layout_height="70dp"
@@ -109,7 +109,7 @@
                 android:textColor="@color/txt_color"
                 android:textSize="25sp" />
 
-            <me.hamzabhatti.cryptopal.customfonts.TextViewSFProDisplayRegular
+            <me.hamzabhatti.cryptallet.customfonts.TextViewSFProDisplayRegular
                 android:id="@+id/three"
                 android:layout_width="0dp"
                 android:layout_height="70dp"
@@ -125,7 +125,7 @@
             android:layout_height="wrap_content"
             android:orientation="horizontal">
 
-            <me.hamzabhatti.cryptopal.customfonts.TextViewSFProDisplayRegular
+            <me.hamzabhatti.cryptallet.customfonts.TextViewSFProDisplayRegular
                 android:id="@+id/four"
                 android:layout_width="0dp"
                 android:layout_height="70dp"
@@ -135,7 +135,7 @@
                 android:textColor="@color/txt_color"
                 android:textSize="25sp" />
 
-            <me.hamzabhatti.cryptopal.customfonts.TextViewSFProDisplayRegular
+            <me.hamzabhatti.cryptallet.customfonts.TextViewSFProDisplayRegular
                 android:id="@+id/five"
                 android:layout_width="0dp"
                 android:layout_height="70dp"
@@ -145,7 +145,7 @@
                 android:textColor="@color/txt_color"
                 android:textSize="25sp" />
 
-            <me.hamzabhatti.cryptopal.customfonts.TextViewSFProDisplayRegular
+            <me.hamzabhatti.cryptallet.customfonts.TextViewSFProDisplayRegular
                 android:id="@+id/six"
                 android:layout_width="0dp"
                 android:layout_height="70dp"
@@ -161,7 +161,7 @@
             android:layout_height="wrap_content"
             android:orientation="horizontal">
 
-            <me.hamzabhatti.cryptopal.customfonts.TextViewSFProDisplayRegular
+            <me.hamzabhatti.cryptallet.customfonts.TextViewSFProDisplayRegular
                 android:id="@+id/seven"
                 android:layout_width="0dp"
                 android:layout_height="70dp"
@@ -171,7 +171,7 @@
                 android:textColor="@color/txt_color"
                 android:textSize="25sp" />
 
-            <me.hamzabhatti.cryptopal.customfonts.TextViewSFProDisplayRegular
+            <me.hamzabhatti.cryptallet.customfonts.TextViewSFProDisplayRegular
                 android:id="@+id/eight"
                 android:layout_width="0dp"
                 android:layout_height="70dp"
@@ -181,7 +181,7 @@
                 android:textColor="@color/txt_color"
                 android:textSize="25sp" />
 
-            <me.hamzabhatti.cryptopal.customfonts.TextViewSFProDisplayRegular
+            <me.hamzabhatti.cryptallet.customfonts.TextViewSFProDisplayRegular
                 android:id="@+id/nine"
                 android:layout_width="0dp"
                 android:layout_height="70dp"
@@ -197,7 +197,7 @@
             android:layout_height="wrap_content"
             android:orientation="horizontal">
 
-            <me.hamzabhatti.cryptopal.customfonts.TextViewSFProDisplayRegular
+            <me.hamzabhatti.cryptallet.customfonts.TextViewSFProDisplayRegular
 
                 android:layout_width="0dp"
                 android:layout_height="70dp"
@@ -206,7 +206,7 @@
                 android:textColor="@color/txt_color"
                 android:textSize="25sp" />
 
-            <me.hamzabhatti.cryptopal.customfonts.TextViewSFProDisplayRegular
+            <me.hamzabhatti.cryptallet.customfonts.TextViewSFProDisplayRegular
                 android:id="@+id/zero"
                 android:layout_width="0dp"
                 android:layout_height="70dp"
@@ -229,7 +229,7 @@
     </LinearLayout>
 
 
-    <me.hamzabhatti.cryptopal.customfonts.Button_SF_Pro_Display_Semibold
+    <me.hamzabhatti.cryptallet.customfonts.Button_SF_Pro_Display_Semibold
         android:id="@+id/bottom_btn"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
