@@ -5,7 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="me.hamzabhatti.cryptopal.WalletCryptoStarActivity">
+    tools:context="me.hamzabhatti.cryptallet.WalletCryptoStarActivity">
 
 
     <android.support.v4.widget.NestedScrollView
@@ -32,7 +32,7 @@
 
 
 
-            <me.hamzabhatti.cryptopal.customfonts.TextViewSFProDisplayRegular
+            <me.hamzabhatti.cryptallet.customfonts.TextViewSFProDisplayRegular
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="My Account"
@@ -52,7 +52,7 @@
                 android:layout_height="wrap_content"
                 android:orientation="horizontal">
 
-                <me.hamzabhatti.cryptopal.customfonts.TextViewSFProDisplayRegular
+                <me.hamzabhatti.cryptallet.customfonts.TextViewSFProDisplayRegular
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textSize="28.3sp"
@@ -69,7 +69,7 @@
                     android:layout_marginLeft="7dp"/>
 
 
-                <me.hamzabhatti.cryptopal.customfonts.TextViewSFProDisplayRegular
+                <me.hamzabhatti.cryptallet.customfonts.TextViewSFProDisplayRegular
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="20%"
@@ -126,7 +126,7 @@
                 android:layout_height="20dp"
                 android:src="@drawable/ic_wallet_coloring"/>
 
-            <me.hamzabhatti.cryptopal.customfonts.TextViewSFProDisplayRegular
+            <me.hamzabhatti.cryptallet.customfonts.TextViewSFProDisplayRegular
                 android:id="@+id/wallet_txt"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -152,7 +152,7 @@
                 android:layout_height="20dp"
                 android:src="@drawable/ic_chart_gray"/>
 
-            <me.hamzabhatti.cryptopal.customfonts.TextViewSFProDisplayRegular
+            <me.hamzabhatti.cryptallet.customfonts.TextViewSFProDisplayRegular
                 android:id="@+id/chart_txt"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -178,7 +178,7 @@
                 android:layout_height="20dp"
                 android:src="@drawable/ic_trading_gray"/>
 
-            <me.hamzabhatti.cryptopal.customfonts.TextViewSFProDisplayRegular
+            <me.hamzabhatti.cryptallet.customfonts.TextViewSFProDisplayRegular
                 android:id="@+id/trading_txt"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -204,7 +204,7 @@
                 android:layout_height="20dp"
                 android:src="@drawable/ic_alert_gray"/>
 
-            <me.hamzabhatti.cryptopal.customfonts.TextViewSFProDisplayRegular
+            <me.hamzabhatti.cryptallet.customfonts.TextViewSFProDisplayRegular
                 android:id="@+id/alert_txt"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -231,7 +231,7 @@
                 android:layout_height="20dp"
                 android:src="@drawable/ic_settings_gray"/>
 
-            <me.hamzabhatti.cryptopal.customfonts.TextViewSFProDisplayRegular
+            <me.hamzabhatti.cryptallet.customfonts.TextViewSFProDisplayRegular
                 android:id="@+id/setting_txt"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"

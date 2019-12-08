@@ -5,7 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="me.hamzabhatti.cryptopal.ChartCryptoStarActivity">
+    tools:context="me.hamzabhatti.cryptallet.ChartCryptoStarActivity">
 
 
     <LinearLayout
@@ -20,7 +20,7 @@
             android:background="@color/white"
             android:orientation="horizontal">
 
-            <me.hamzabhatti.cryptopal.customfonts.TextViewSFProDisplayRegular
+            <me.hamzabhatti.cryptallet.customfonts.TextViewSFProDisplayRegular
                 android:layout_weight="1"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
@@ -59,7 +59,7 @@
                 android:layout_height="wrap_content"
                 android:orientation="vertical">
 
-                <me.hamzabhatti.cryptopal.customfonts.TextViewSFProDisplayRegular
+                <me.hamzabhatti.cryptallet.customfonts.TextViewSFProDisplayRegular
                     android:id="@+id/title"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -81,7 +81,7 @@
                         android:src="@drawable/ic_btc"/>
 
 
-                    <me.hamzabhatti.cryptopal.customfonts.TextViewSFProDisplayRegular
+                    <me.hamzabhatti.cryptallet.customfonts.TextViewSFProDisplayRegular
                         android:id="@+id/icon_type"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -103,7 +103,7 @@
 
 
 
-                <me.hamzabhatti.cryptopal.customfonts.TextViewSFProDisplayRegular
+                <me.hamzabhatti.cryptallet.customfonts.TextViewSFProDisplayRegular
                     android:id="@+id/price"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -124,7 +124,7 @@
                     android:orientation="horizontal">
 
 
-                    <me.hamzabhatti.cryptopal.customfonts.TextViewSFProDisplayRegular
+                    <me.hamzabhatti.cryptallet.customfonts.TextViewSFProDisplayRegular
                         android:id="@+id/percentage"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -184,7 +184,7 @@
                     android:layout_height="wrap_content"
                     android:orientation="vertical">
 
-                    <me.hamzabhatti.cryptopal.customfonts.TextViewSFProDisplayRegular
+                    <me.hamzabhatti.cryptallet.customfonts.TextViewSFProDisplayRegular
 
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -205,7 +205,7 @@
                             android:src="@drawable/ic_etherium"/>
 
 
-                        <me.hamzabhatti.cryptopal.customfonts.TextViewSFProDisplayRegular
+                        <me.hamzabhatti.cryptallet.customfonts.TextViewSFProDisplayRegular
 
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
@@ -227,7 +227,7 @@
 
 
 
-                    <me.hamzabhatti.cryptopal.customfonts.TextViewSFProDisplayRegular
+                    <me.hamzabhatti.cryptallet.customfonts.TextViewSFProDisplayRegular
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:gravity="right"
@@ -247,7 +247,7 @@
                         android:orientation="horizontal">
 
 
-                        <me.hamzabhatti.cryptopal.customfonts.TextViewSFProDisplayRegular
+                        <me.hamzabhatti.cryptallet.customfonts.TextViewSFProDisplayRegular
 
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
@@ -313,7 +313,7 @@
                 android:layout_height="20dp"
                 android:src="@drawable/ic_wallet_gray"/>
 
-            <me.hamzabhatti.cryptopal.customfonts.TextViewSFProDisplayRegular
+            <me.hamzabhatti.cryptallet.customfonts.TextViewSFProDisplayRegular
                 android:id="@+id/wallet_txt"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -339,7 +339,7 @@
                 android:layout_height="20dp"
                 android:src="@drawable/ic_chart_coloring"/>
 
-            <me.hamzabhatti.cryptopal.customfonts.TextViewSFProDisplayRegular
+            <me.hamzabhatti.cryptallet.customfonts.TextViewSFProDisplayRegular
                 android:id="@+id/chart_txt"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -365,7 +365,7 @@
                 android:layout_height="20dp"
                 android:src="@drawable/ic_trading_gray"/>
 
-            <me.hamzabhatti.cryptopal.customfonts.TextViewSFProDisplayRegular
+            <me.hamzabhatti.cryptallet.customfonts.TextViewSFProDisplayRegular
                 android:id="@+id/trading_txt"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -391,7 +391,7 @@
                 android:layout_height="20dp"
                 android:src="@drawable/ic_alert_gray"/>
 
-            <me.hamzabhatti.cryptopal.customfonts.TextViewSFProDisplayRegular
+            <me.hamzabhatti.cryptallet.customfonts.TextViewSFProDisplayRegular
                 android:id="@+id/alert_txt"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -418,7 +418,7 @@
                 android:layout_height="20dp"
                 android:src="@drawable/ic_settings_gray"/>
 
-            <me.hamzabhatti.cryptopal.customfonts.TextViewSFProDisplayRegular
+            <me.hamzabhatti.cryptallet.customfonts.TextViewSFProDisplayRegular
                 android:id="@+id/setting_txt"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
